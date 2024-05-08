@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jay P.
+- 👋 Hi, I’m Jay.
 - 👀 I’m interested in Data Analytics & Machine Learning.
 
 <!---
