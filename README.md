@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jay P.
-- 👀 I’m interested in Data Analytics & Machine Learning.
+- 👀 I’m interested in Data Analytics & Engineering.
 
 <!---
 jayast29/jayast29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
