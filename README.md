@@ -1,4 +1,4 @@
-- Hi, I am Jay 👋🏼
+- Hi, I am Jay P👋🏼
 - Interested in Data Analytics & Engineering 😄
 - Pursuing MS in Information Science at UA 🌵
 
