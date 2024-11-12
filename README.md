@@ -1,6 +1,6 @@
 - Hi, I am Jay P👋🏼
 - Pursuing MS in Information Science at UoA 🌵
-- Interested in Data Analytics & Engineering 😄
+- Interested in Data Analytics & Machine Learning 😄
 
 
 <!---
