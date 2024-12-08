@@ -1,4 +1,4 @@
-- Hi, I am Jay👋🏼
+- Hi, I am Jay 👋🏼
 - Pursuing MS in Information Science at UoA 🌵
 - Interested in Data Analytics & Machine Learning 🚀
 
