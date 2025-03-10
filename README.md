@@ -1,6 +1,6 @@
-- Hi, I am Jay 👋🏼
-- Pursuing MS in Information Science at UoA 🌵
-- Interested in Data Engineering & Machine Learning 🚀
+- Hi, I am Jay👋🏼
+- Pursuing MS in Information Science at UoA🌵
+- Interested in Data Engineering & Machine Learning🚀
 
 
 <!---
