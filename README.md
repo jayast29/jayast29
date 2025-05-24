@@ -8,7 +8,7 @@
         <samp>
                 「 MS in Information Science @ University of Arizona 」
                 <br>
-                「 ☁️ Cloud Computing | ⚙️ Data Engineering | 🚀 Machine Learning 」
+                「 ☁️ Cloud Computing | 🚀 Data Engineering 」
                 <br>
                 <br>
         </samp>
