@@ -1,12 +1,13 @@
 
-<h2 align="center">Hey there! I'm Jay</h2>
+<h2 align="center">Hey there, I'm Jay!</h2>
+<p align="center">Data Engineer focused on building scalable data solutions and optimizing data workflows.</p>
 
 <p align="center">
         <!-- Intro -->
         <samp>
                 「 MS in Information Science @ University of Arizona 」
                 <br>
-                「 ☁️ Cloud Computing | 🚀 Data Engineering 」
+                「 🚀 Data Engineering | ☁️ Cloud Computing 」
                 <br>
                 <br>
         </samp>
@@ -14,10 +15,10 @@
         <p align="center">
           <img src="https://img.shields.io/badge/SQL-000000?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/>
           <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=FFD43B" alt="Python"/>
-          <img src="https://img.shields.io/badge/Microsoft%20Azure-000000?style=flat-square&logo=microsoftazure&logoColor=0078D4" alt="Azure"/>
+          <img src="https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazonaws&logoColor=FF9900" alt="AWS"/>
+          <img src="https://img.shields.io/badge/Azure-000000?style=flat-square&logo=microsoftazure&logoColor=0078D4" alt="Azure"/>
           <img src="https://img.shields.io/badge/Spark-000000?style=flat-square&logo=apachespark&logoColor=E25A1C" alt="Spark"/>
           <img src="https://img.shields.io/badge/Databricks-000000?style=flat-square&logo=databricks&logoColor=EF3E3E" alt="Databricks"/>
-          <img src="https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazonaws&logoColor=FF9900" alt="AWS"/>
           <img src="https://img.shields.io/badge/Snowflake-000000?style=flat-square&logo=snowflake&logoColor=29B5E8" alt="Snowflake"/>
           <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=F05032" alt="Git"/>
         </p>
