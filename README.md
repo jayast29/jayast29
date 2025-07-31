@@ -1,7 +1,5 @@
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=24&center=true&vCenter=true&width=600&height=80&duration=4000&lines=HI+THERE!;+I'M+JAY!;&color=00FF41" />
-</h2>
+<h2 align="center">Hey there! I'm Jay</h2>
 
 <p align="center">
         <!-- Intro -->
